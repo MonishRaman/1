@@ -1,0 +1,30 @@
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-section {
+    margin-bottom: 30px;
+  }
+  
+  .dashboard-section h2 {
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .dashboard-section li {
+    margin-bottom: 10px;
+  }
+  
